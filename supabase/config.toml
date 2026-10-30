@@ -1,0 +1,4 @@
+project_id = "ycyrqbsdrnqzayixbxty"
+
+[functions.career-ai-analysis]
+verify_jwt = false
